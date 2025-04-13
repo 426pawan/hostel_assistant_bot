@@ -27,40 +27,6 @@ cu-hostel-assistant/ ├── app.py # Flask backend application
 
 ---
 
-## 🛠️ Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/cu-hostel-assistant.git
-cd cu-hostel-assistant
-
-python -m venv venv
-# On Windows:
-venv\Scripts\activate
-# On Mac/Linux:
-source venv/bin/activate
-
-pip install -r requirements.txt
-python app.py
-
-🌐 Deployment on Render
-Environment Variables
-On Render, set the following environment variable:
-
-Name	Value
-FLASK_SECRET_KEY	YourSecureSecretKey123
-Start Command for Render
-bash
-Copy
-Edit
-gunicorn app:app
-📦 Dependencies
-Ensure these are listed in your requirements.txt:
-
-Flask
-
-gunicorn
 
 💬 Chatbot Menu Options
 Hostel General Information
@@ -100,6 +66,3 @@ Chandigarh University
 
 📄 License
 This project is intended for educational and demonstration purposes only.
-
-
-You can **copy** this entire block and **paste it directly** into your **README.md** file without worrying about formatting! Let me know if everything looks good now!
