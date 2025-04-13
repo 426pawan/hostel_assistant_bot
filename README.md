@@ -29,6 +29,7 @@ cu-hostel-assistant/ ├── app.py # Flask backend application
 
 
 💬 Chatbot Menu Options
+
 Hostel General Information
 
 Events & Notices
