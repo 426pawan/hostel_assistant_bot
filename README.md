@@ -1,5 +1,6 @@
 # 🏨 CU Hostel Assistant Chatbot
 Link:https://cu-hostel-assistant-bot.onrender.com
+---
 A simple and interactive Flask-based web chatbot designed for Chandigarh University hostel residents.  
 It provides quick responses to frequently asked queries about hostel services, regulations, and support.
 
